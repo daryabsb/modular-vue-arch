@@ -3,7 +3,7 @@ import Home from '../views/Home.vue';
 import SubComp from '../views/SubComp.vue'
 
 const moduleRoute = {
-  path: '/module-1/',
+  path: '/module-1',
   component: Base,
   children: [
     {
